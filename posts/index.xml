@@ -1,39 +1,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Hello Friend</title>
-        <link>http://localhost:1313/SimKort/SimKort.github.io.git/posts/</link>
+        <link>https://github.com/SimKort/SimKort.github.io.git/posts/</link>
         <description>Recent content in Posts on Hello Friend</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 12 Jan 2025 01:11:32 +0200</lastBuildDate>
-        <atom:link href="http://localhost:1313/SimKort/SimKort.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://github.com/SimKort/SimKort.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Picture Post</title>
-            <link>http://localhost:1313/SimKort/SimKort.github.io.git/posts/picture/</link>
+            <link>https://github.com/SimKort/SimKort.github.io.git/posts/picture/</link>
             <pubDate>Sun, 12 Jan 2025 01:11:32 +0200</pubDate>
             
-            <guid>http://localhost:1313/SimKort/SimKort.github.io.git/posts/picture/</guid>
+            <guid>https://github.com/SimKort/SimKort.github.io.git/posts/picture/</guid>
             <description>&lt;p&gt;Here is the image:
-&lt;img src=&#34;http://localhost:1313/SimKort/SimKort.github.io.git/images/imageMeme.png&#34; alt=&#34;My image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Here is an example of python code:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
+
+    &lt;img src=&#34;https://github.com/SimKort/SimKort.github.io.git/SimKort/SimKort.github.io.git/img/memus.png&#34;  alt=&#34;Memus&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Here is an example of C++ code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
             <content type="html"><![CDATA[<p>Here is the image:
-<img src="/images/imageMeme.png" alt="My image"></p>
-<p>Here is an example of python code:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">hello</span>():
-</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;Hello, World!&#34;</span>)
+
+    <img src="/SimKort/SimKort.github.io.git/img/memus.png"  alt="Memus"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+<p>Here is an example of C++ code:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#75715e">#include</span> <span style="color:#75715e">&lt;iostream&gt;</span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>()
+</span></span><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>    std<span style="color:#f92672">::</span>cout <span style="color:#f92672">&lt;&lt;</span> <span style="color:#e6db74">&#34;Hello World!</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#34;</span>;
+</span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div>]]></content>
         </item>
         
         <item>
             <title>New Post</title>
-            <link>http://localhost:1313/SimKort/SimKort.github.io.git/posts/new/</link>
+            <link>https://github.com/SimKort/SimKort.github.io.git/posts/new/</link>
             <pubDate>Sat, 11 Jan 2025 23:51:54 +0200</pubDate>
             
-            <guid>http://localhost:1313/SimKort/SimKort.github.io.git/posts/new/</guid>
+            <guid>https://github.com/SimKort/SimKort.github.io.git/posts/new/</guid>
             <description>&lt;p&gt;This is a new page.
 What should be in here?&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;				WOMP WOMP
