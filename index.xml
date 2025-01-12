@@ -6,8 +6,15 @@
     <description>Recent content on Hello Friend</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2025 01:11:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 02:21:30 +0200</lastBuildDate>
     <atom:link href="https://simkort.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us</title>
+      <link>https://simkort.github.io/about/</link>
+      <pubDate>Sun, 12 Jan 2025 02:21:30 +0200</pubDate>
+      <guid>https://simkort.github.io/about/</guid>
+      <description>&lt;p&gt;Here is some important information about us:&lt;/p&gt;&#xA;&lt;p&gt;In this website you can find various posts about various different subjects.&lt;/p&gt;&#xA;&lt;p&gt;Have fun and enjoy!!!&#xA;&#xD;&#xA;    &lt;img src=&#34;https://simkort.github.io/img/fun.png&#34;  alt=&#34;ThumbsUp&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Picture Post</title>
       <link>https://simkort.github.io/posts/picture/</link>
