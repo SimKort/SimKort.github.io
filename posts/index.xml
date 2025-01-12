@@ -16,7 +16,7 @@
             <guid>https://simkort.github.io/posts/picture/</guid>
             <description>&lt;p&gt;Here is the image:
 
-    &lt;img src=&#34;https://simkort.github.io/SimKort/SimKort.github.io.git/img/memus.png&#34;  alt=&#34;Memus&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;https://simkort.github.io/img/memus.png&#34;  alt=&#34;Memus&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;p&gt;Here is an example of C++ code:&lt;/p&gt;
@@ -29,7 +29,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
             <content type="html"><![CDATA[<p>Here is the image:
 
-    <img src="/SimKort/SimKort.github.io.git/img/memus.png"  alt="Memus"  class="center"  style="border-radius: 8px;"  />
+    <img src="/img/memus.png"  alt="Memus"  class="center"  style="border-radius: 8px;"  />
 
 </p>
 <p>Here is an example of C++ code:</p>
